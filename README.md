@@ -1,7 +1,5 @@
 # 🎬 Movie Recommendation System
 
-![Movie Recommendation](https://via.placeholder.com/800x300?text=Movie+Recommendation+System)
-
 ## 📌 Overview
 The **Movie Recommendation System** is a machine learning-based project that suggests movies based on user preferences. It uses **Natural Language Processing (NLP)** and **collaborative filtering** techniques to provide personalized recommendations. The system processes movie metadata and user behavior to make intelligent predictions, enhancing the movie-watching experience.
 
